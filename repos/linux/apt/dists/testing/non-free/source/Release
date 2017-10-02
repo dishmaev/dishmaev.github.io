@@ -1,0 +1,4 @@
+Component: non-free
+Origin: https://dishmaev.github.io/repos/linux/apt
+Architecture: source
+Description: Testing APT repository

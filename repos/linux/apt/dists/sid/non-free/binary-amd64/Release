@@ -1,0 +1,5 @@
+Archive: unstable
+Component: non-free
+Origin: https://dishmaev.github.io/repos/linux/apt
+Architecture: amd64
+Description: Development APT repository

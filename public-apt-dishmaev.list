@@ -1,0 +1,8 @@
+deb https://dishmaev.github.io/repos/linux/apt stable main contrib non-free
+# deb-src https://dishmaev.github.io/repos/linux/apt stable main contrib non-free
+
+# deb https://dishmaev.github.io/repos/linux/apt testing main contrib non-free
+# deb-src https://dishmaev.github.io/repos/linux/apt testing main contrib non-free
+
+# deb https://dishmaev.github.io/repos/linux/apt unstable main contrib non-free
+# deb-src https://dishmaev.github.io/repos/linux/apt unstable main contrib non-free

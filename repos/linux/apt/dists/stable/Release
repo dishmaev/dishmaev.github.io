@@ -1,12 +1,12 @@
 Origin: https://dishmaev.github.io/repos/linux/apt
 Codename: stable
-Date: Mon, 02 Oct 2017 06:14:31 UTC
+Date: Thu, 09 Nov 2017 08:53:40 UTC
 Architectures: amd64 i386
 Components: main contrib non-free
 Description: Release APT repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 5f68e0aef3d492afedd3ad1d8edf1b4a 402 main/binary-amd64/Packages
+ dcd54fbe2eac78b31f038b6bcd8a202e 314 main/binary-amd64/Packages.gz
  3ad73db358f6f8ca29349d8ea587f4bf 123 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -33,8 +33,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
  3b1fdd5cdc70faba60d0c7029b7b9740 128 non-free/source/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ f986c0840e99711d73fb76c006e3b21dfab0c9f3 402 main/binary-amd64/Packages
+ b4be7d5c386f67077859eab8e3222b9762392d3d 314 main/binary-amd64/Packages.gz
  cb4b003629133ee479854470410e99c65641ad58 123 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -61,8 +61,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
  e44dd51360b1ac982d460572fa3139899c1efe5a 128 non-free/source/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 9877f7a4f376333f3d9d15158c8bc55974790cc197e29c4144b4e8dae3fd3fbe 402 main/binary-amd64/Packages
+ f59c025a397201b3cb32b58769d87bf654d92d206b8d767d973bd5495211443c 314 main/binary-amd64/Packages.gz
  a199c509fc46cd732c0152363ac2b6fde91f4401de4227fdfd926eebb753af12 123 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz

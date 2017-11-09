@@ -1,4 +1,5 @@
-Component: main
+Archive: stable
+Component: non-free
 Origin: https://dishmaev.github.io/repos/linux/apt
-Architecture: amd64
+Architecture: source
 Description: Release APT repository

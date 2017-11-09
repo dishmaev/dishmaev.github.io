@@ -1,4 +1,5 @@
-Component: contrib
+Archive: stable
+Component: main
 Origin: https://dishmaev.github.io/repos/linux/apt
-Architecture: i386
+Architecture: source
 Description: Release APT repository

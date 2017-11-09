@@ -3,7 +3,7 @@ Hash: SHA256
 
 Origin: https://dishmaev.github.io/repos/linux/apt
 Codename: testing
-Date: Thu, 09 Nov 2017 09:26:32 UTC
+Date: Thu, 09 Nov 2017 09:53:47 UTC
 Architectures: amd64 i386
 Components: main contrib non-free
 Description: Testing APT repository
@@ -93,12 +93,12 @@ SHA256:
  95c051f20a747db461ce46b83527498a769513aa4a01af8177f1d4fe58cc106b 128 non-free/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloEH0gACgkQ9PWme+RO
-7tT5ZwgAsiTlRQVmcSVwM/8Vxn/u46Q9+f7O/19oVGWUpXYNBEuj1YyuRX9Ne/NV
-U9GhIwL9U7thJDPfxL2BI6h9+7zUtuW322Hu3UKlcW1HzrkGbmmoxHck1qS95SRQ
-iOU2nY0tSMtp7RQ5XMsD3UE1ltAeiMy++ua81PzIjwO5bHkkhQ1Cj7c1YBn3J+2W
-5QsufXghouizSioGe2MwdqmHJxwfxCxpaZQJt5ah81GXGeNxyU95Orjr6jDYfw4t
-IVRwaw8rjfKYg+4Af5qBglBk3Af0r8yL9W1K1Bqnw6gDZ7W8lXrUgDUiqGEvz7Rq
-DQ7x0r6XAsPQL0fzEbcQXBZEOz+L5Q==
-=zNlf
+iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloEJasACgkQ9PWme+RO
+7tSBbAf9F88fsYXXB4A2iGtgR9ZRVgyhAvx9ZNnZUQ5SQX5htTbcc/WzGAPfe9cw
+Z2woPvcNmSQXUArx0ZRPYQw5UnQaAgVL0noGsjDij68CNHntTmPMwUzst4Svm4I0
+sho3Z0yVzhUpU7OLe6w8iiOg5LihRySkjc+N/FDIoQIBf4OBYpUa5zuGz/SeDJhy
+VwjA28Na3TG4F3oqIn3gkLmtk3HaPBX82qT8/ksT26xRWgGpD5S1PV7tcqUkFMlQ
+gyfFpStDNFOLIav224DlgR9q6OdFs3+wEsdOMePSb8rqzH0c9QX9eM1MZgXADqem
+FeE47ZNaCY+3XhDQAF71sYx2CwGClw==
+=p7Ui
 -----END PGP SIGNATURE-----

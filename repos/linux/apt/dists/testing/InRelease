@@ -4,13 +4,13 @@ Hash: SHA256
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: testing
 Codename: testing
-Date: Thu, 09 Nov 2017 10:49:43 UTC
+Date: Thu, 09 Nov 2017 10:56:25 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Testing APT repository
 MD5Sum:
- 5f68e0aef3d492afedd3ad1d8edf1b4a 402 main/binary-amd64/Packages
- dcd54fbe2eac78b31f038b6bcd8a202e 314 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  9cff8cb67d56f978b8d253a87eeb2287 140 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -28,8 +28,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
  a0b1fa4dd6bd99709d8c3462ece352ac 145 non-free/source/Release
 SHA1:
- f986c0840e99711d73fb76c006e3b21dfab0c9f3 402 main/binary-amd64/Packages
- b4be7d5c386f67077859eab8e3222b9762392d3d 314 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  81d05496a14adaec180bfae27f2c81e88badd7ea 140 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -47,8 +47,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
  cddc6de54afae992f91bfd13ae65ac5b9fe42a42 145 non-free/source/Release
 SHA256:
- 9877f7a4f376333f3d9d15158c8bc55974790cc197e29c4144b4e8dae3fd3fbe 402 main/binary-amd64/Packages
- f59c025a397201b3cb32b58769d87bf654d92d206b8d767d973bd5495211443c 314 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  f3265c8ecbc4e72e68d47d364d756fba6a3d9da2e1cf011dbb0418f24bc56f01 140 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
@@ -67,12 +67,12 @@ SHA256:
  372c8ff730550e00c7cb8279add5d5730e09a8405399407bd80735e42b7ef760 145 non-free/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloEMscACgkQ9PWme+RO
-7tRIlQgAuXiYNXv00VEyd/cZvRQ9kC6vUnvhv4WfbKwpWm1q4Z8rXRCLd2Z9iH/S
-wRHDHek4K9z2/jcfCu0aw69XZqay6Mu7tlpXXv4yi+Q4Wi6XSFiHyorTjEwxe5Nf
-QWrP3Sq0hoIuhmebjFEi/eZSIKKzXL4N1CcPeHxpaDpn+jEk9I/K2dgDjKuXnKnG
-LDzEFMdrugfJGJ9UxnsUQI2PbUTPFNh832l90YnMFb+GX/Y93iy6knD+a6zv2vSt
-er6fxHV88PPmgIKDU0QP9ymwefCrSKu/tq8A4h887FdI9vJjnh7Jol2eEpNircqp
-bcvqdkVjKLwq80CNqCzFkMRlJL1z9Q==
-=254g
+iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloENFkACgkQ9PWme+RO
+7tTSyAf/WbahpUy0hC1K1tjUeC+xamxEz0M8cUv+CTB7/C992pCsXoCl/S5Lxu+T
+MWxb+Xz6HLO3t5BWpgwQ+WbbK03gXQ07DgQY0cjtCh0NZUMnU+rpW5Z3PGl/LWfY
+8CMZhPZI63sqYA7YN+v9DIufv3KMc/Rk6heIAy9GL+hEAl3Z92Qa6mPj3OaLhhgB
+ALlo+Vn7vmh3vJ/Il3ueQDccjEBAlRJmBm2mwsgK2vp2+993Qf+82qB27H9dSRnV
+1ijX/wWUWN3IFnaWcn3KIj5BOH0RRwfHar/rVjJwnHCq5qKzemNxvmzx2+2QRToz
+jyN6DSG09xCbwp284eW7ElMzzmJNEQ==
+=o2+r
 -----END PGP SIGNATURE-----

@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: unstable
 Codename: sid
-Date: Thu, 09 Nov 2017 10:47:53 UTC
+Date: Thu, 09 Nov 2017 10:56:25 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Development APT repository
@@ -67,12 +67,12 @@ SHA256:
  96fae7067997ffd92b359678d35964a12fc0c6d93ad33e4614869eb7120a834e 150 non-free/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloEMlkACgkQ9PWme+RO
-7tSZ6gf/Zxm/GZTQdXICRC3twbC+LBw6MsKWXEa+8NPJFAig4gIMSoiVU9cnN6Ur
-0vHJ8t8pGjidXmqZcki+znOANzfCUkRjES0k9I53CycSguUdQzDxcQGt/6dXXw/l
-WfNkBW0ATERVwLnqZDaaLC5bSGrXg1s1b/KK3juyWpyb+7EX+0t1HQe9RNppekz/
-udSi/jXXf8TyQpNiR0i8h4e6Aa1wv8qE0T46N+ZR3IndlLlhZ9BaVfXAbIpg3O6t
-CdWMcFFMkdTwUmSWi/dQA1Yo+ixwilGnmUEZpeFekxfu5aLUV3b6txi7SPy2N3oH
-o4jpdGQntyN7Qw3XFz9j0dKle9NFWQ==
-=cxxU
+iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloENFkACgkQ9PWme+RO
+7tTzQQgAim1FY650myhaZBljbrwy8dRzYOFYrveKuH8+hX0DD5/IsJzs7QTzi8HA
+I6uLvlfs2z3O45mKuKPPkazi4Z1OpoITrH0wLqe1TVsvOhzKTHIi72RGZbkrdDhN
+K6+5jR/VkeDNvrwvotjVSovPE1C3FJPs3PWbHhptqdtxgEigGbM665Vfq6k7WHPV
+a59sl95O5Gk6k/UfMw09DP8PQ74vAeSJ8khnm/nYi/R3wc37OrJth7eSFTunwBvJ
+ooqmq33SNAKWTGgD0l8HxQ5WY9b8muGZ/BqXJJoWyna8s2zPkPxhAus1YaOXAZIk
+fDyY3wX/hTa8lc9JhVZWS/8Al7A47Q==
+=2bAn
 -----END PGP SIGNATURE-----

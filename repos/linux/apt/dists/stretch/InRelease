@@ -4,13 +4,13 @@ Hash: SHA256
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: stable
 Codename: stretch
-Date: Thu, 09 Nov 2017 09:53:47 UTC
+Date: Thu, 09 Nov 2017 09:56:44 UTC
 Architectures: amd64 i386
 Components: main contrib non-free
 Description: Release APT repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 5f68e0aef3d492afedd3ad1d8edf1b4a 402 main/binary-amd64/Packages
+ dcd54fbe2eac78b31f038b6bcd8a202e 314 main/binary-amd64/Packages.gz
  ca9d33a563213eb0b8d84df4c2f204c1 139 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -37,8 +37,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
  60945ecdec399464743344bc7fab8289 144 non-free/source/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ f986c0840e99711d73fb76c006e3b21dfab0c9f3 402 main/binary-amd64/Packages
+ b4be7d5c386f67077859eab8e3222b9762392d3d 314 main/binary-amd64/Packages.gz
  d8cf3c6cdaec4cb5386a66035b4054422f9b278c 139 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -65,8 +65,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
  722ff412e7abc2b99daefa10f7d8a5ee73e04960 144 non-free/source/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 9877f7a4f376333f3d9d15158c8bc55974790cc197e29c4144b4e8dae3fd3fbe 402 main/binary-amd64/Packages
+ f59c025a397201b3cb32b58769d87bf654d92d206b8d767d973bd5495211443c 314 main/binary-amd64/Packages.gz
  15d6f1b051270ed0f025250178870de47fe79dc2ecd7744b4b660d5a70833f45 139 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
@@ -94,12 +94,12 @@ SHA256:
  3babab326529bfdd6eece1114d411e02991cfcf8251e33a6153d4edf56f5b445 144 non-free/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloEJasACgkQ9PWme+RO
-7tSDtgf+Ivu5iXUfnGRNvEjERpHeKfXgT78+0VXMecyqBfTzzBTaVfTyF+UPL8or
-c5kxLlTHUHTd2qls3QPcOxhh5vpRbF6utvfxbS7xHksU8nnLYoglf0UMoOn/Vsc+
-OPd8NlZSh9ZGq9MzYO+2zQkkbvAOZTTvBP2l6zdIIkVOcbdlIVgIP7w9NSahaHNW
-lhFbxjgV63jal6bEdG6gH4ndYQ/cGHZ5zLnQMEy+ZPfsOWdPNc1EhDDlJh5gA257
-dodqpeHIo+dpkxkLOYQeRAu5pYs44HSpD0QVTYLXeFQbKvTILhiguQcNKwE6FHnc
-X62rmel7iaXdkBC1cKl3YqKQBgUq8w==
-=52lB
+iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloEJlwACgkQ9PWme+RO
+7tTQuAf+OLWsl2GL6FRlwAUeEvDsp2t6+IfV2vNtEoJMwLNEW3FONRB/nNPJvZKr
+fzHh5skdRINB8cCbGsrhibL6sIzD28ojGV5xKCTAiaWuK2U+Kiky72nXNOipzsp0
+MxovKxiR0m9EdinCAb7tF6CyVsNMob/EXx61przuuwYcEx/nr35m/0ct2nKXUU/K
+j0czfx7ok66alqZbEoLsrpTaENDPGrz33Ao5s8Vr3WH9L4wpvJVnjEQhraGW7l7K
+q+GtaJjJ9I5j3JE6r8T39fh/0obgcq3HqfV1re900wI6XqqilW3xpspUndx4xwN3
+FPiiRCQ7qdw9E7T1MuXq3jm/EFMg9g==
+=vam4
 -----END PGP SIGNATURE-----

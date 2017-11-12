@@ -1,21 +1,21 @@
-[dishmaev_repo_release_rpms]
-name=Release RPM repository $basearch
+[dish_release_rpms]
+name=Dmitry Ishmaev release RPM repository $basearch
 baseurl=https://dishmaev.github.io/repos/linux/rpm/release/RPMS/$basearch
 gpgkey=https://dishmaev.github.io/repos/linux/linux_signing_key.pub
 gpgcheck=1
 repo_gpgcheck=1
 enabled=1
 
-[dishmaev_repo_test_rpms]
-name=Testing RPM repository $basearch
+[dish_test_rpms]
+name=Dmitry Ishmaev testing RPM repository $basearch
 baseurl=https://dishmaev.github.io/repos/linux/rpm/test/RPMS/$basearch
 gpgkey=https://dishmaev.github.io/repos/linux/linux_signing_key.pub
 gpgcheck=1
 repo_gpgcheck=1
 enabled=0
 
-[dishmaev_repo_develop_rpms]
-name=Development RPM repository $basearch
+[dish_develop_rpms]
+name=Dmitry Ishmaev development RPM repository $basearch
 baseurl=https://dishmaev.github.io/repos/linux/rpm/develop/RPMS/$basearch
 gpgkey=https://dishmaev.github.io/repos/linux/linux_signing_key.pub
 gpgcheck=1

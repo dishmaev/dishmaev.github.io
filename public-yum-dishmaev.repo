@@ -1,4 +1,4 @@
-[dishrepo_release_rpms]
+[dishmaev_repo_release_rpms]
 name=Release RPM repository $basearch
 baseurl=https://dishmaev.github.io/repos/linux/rpm/release/RPMS/$basearch
 gpgkey=https://dishmaev.github.io/repos/linux/linux_signing_key.pub
@@ -6,7 +6,7 @@ gpgcheck=1
 repo_gpgcheck=1
 enabled=1
 
-[dishrepo_test_rpms]
+[dishmaev_repo_test_rpms]
 name=Testing RPM repository $basearch
 baseurl=https://dishmaev.github.io/repos/linux/rpm/test/RPMS/$basearch
 gpgkey=https://dishmaev.github.io/repos/linux/linux_signing_key.pub
@@ -14,7 +14,7 @@ gpgcheck=1
 repo_gpgcheck=1
 enabled=0
 
-[dishrepo_develop_rpms]
+[dishmaev_repo_develop_rpms]
 name=Development RPM repository $basearch
 baseurl=https://dishmaev.github.io/repos/linux/rpm/develop/RPMS/$basearch
 gpgkey=https://dishmaev.github.io/repos/linux/linux_signing_key.pub

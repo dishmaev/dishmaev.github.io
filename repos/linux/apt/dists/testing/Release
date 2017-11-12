@@ -1,7 +1,7 @@
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: testing
 Codename: testing
-Date: Thu, 09 Nov 2017 10:56:25 UTC
+Date: Sun, 12 Nov 2017 10:22:13 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Testing APT repository

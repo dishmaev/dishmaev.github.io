@@ -1,10 +1,7 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: stable
-Codename: stretch
-Date: Thu, 09 Nov 2017 10:56:25 UTC
+Codename: stable
+Date: Sun, 12 Nov 2017 10:22:13 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Release APT repository
@@ -65,14 +62,3 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
  3babab326529bfdd6eece1114d411e02991cfcf8251e33a6153d4edf56f5b445 144 non-free/source/Release
------BEGIN PGP SIGNATURE-----
-
-iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloENFkACgkQ9PWme+RO
-7tRCqgf+KUrAZjD4TyzrV5dI4lQPMJeOYCMdhchMMow5pA4xhcdd9x1bwtdOzg5o
-6km/9Q+T8rhKV/OvKSR6Cvpybdmj4xRK2s2Z93auFMZvdcCuVwuKEqg7vyOvAovI
-xm/mbrzyf6nuONJeYSTBtAfGfIWpCsFU5FPHlQ05/mpOjRAd0jMZUl/R61as7DM8
-bfiCZEQx8umn1YHGG42V9m12F6weiVdHDU0d9myksPqU6UTPcPDY12iwL8ApDBCn
-gDc8Q4aUVkLspKUejdvW9wiSG4xxXPyn+tsHbKhuZ3QcbfqZaTRh4BrVfArhwqZl
-+CW/oExaUmudXQZM5wJb2rdyGjliQQ==
-=byNv
------END PGP SIGNATURE-----

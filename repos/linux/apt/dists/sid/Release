@@ -1,13 +1,13 @@
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: unstable
 Codename: sid
-Date: Mon, 13 Nov 2017 16:31:34 UTC
+Date: Thu, 30 Nov 2017 12:40:46 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Development APT repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 3a6653bef4154dc6d7a083c93241a00a 474 main/binary-amd64/Packages
+ 99a295d7b06b1318781e367563cbcce1 358 main/binary-amd64/Packages.gz
  0cf0545e5f2c0762f2dbef57a802cc73 145 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -25,8 +25,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
  3c7f5e6b9ce9312705c43f7959a89505 150 non-free/source/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 356d25e8b537d9b5a6c85ae69ae04beac082d0cb 474 main/binary-amd64/Packages
+ 409f841d90ede0b4ba3980a533b44a0dd483cf26 358 main/binary-amd64/Packages.gz
  491f95fa6c6dcb09b541f022a704eca8e662415c 145 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -44,8 +44,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
  bb93760752843c54ae4bb419ea88e2252f2600a1 150 non-free/source/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 70488ed58519ce64d072d8603428560817c389177aff329f66268472feab5760 474 main/binary-amd64/Packages
+ 6102d8dfa90ea8caaad2fca6a16b53f80fd4afb7181c15629837cc6cd43a70b4 358 main/binary-amd64/Packages.gz
  f0f83ec3657819a97c4877b4f0382ed4667b9eabf9dc69aa7dd2c638983be41a 145 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz

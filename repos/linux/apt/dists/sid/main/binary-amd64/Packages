@@ -1,0 +1,14 @@
+Package: cppboost
+Version: 0.1.0
+Architecture: amd64
+Maintainer: dishmaev <idax@rambler.ru>
+Priority: optional
+Section: misc
+Filename: pool/main/c/cppboost/cppboost_0.1.0_amd64.deb
+Size: 50380
+SHA256: 920c1a12212a1f27b1fd00a0c5b8bfdb32667117d669f1301d8dacf5e7504768
+SHA1: 8017732013b1e443a7452867af3fab2b9c89e60c
+MD5sum: bb7544ed475c393b50f45215d0206bc2
+Description: Sample c++ boost application for test automation build deb and rpm packages
+Depends: libboost-regex1.62.0
+

@@ -1,14 +1,14 @@
 Package: cppqt5
-Version: 0.1.1
+Version: 0.1.2
 Architecture: amd64
 Maintainer: dishmaev <idax@rambler.ru>
 Priority: optional
 Section: misc
-Filename: pool/main/c/cppqt5/cppqt5_0.1.1_amd64.deb
-Size: 8122
-SHA256: a641e176356c68492044170952b58c4d49a8b01e1b6283245c8372055a2f73e1
-SHA1: 59c02fe0c154805c8e6a43295e6ab924bbcadf7d
-MD5sum: 337c8e520feccc6d185fc28437366774
+Filename: pool/main/c/cppqt5/cppqt5_0.1.2_amd64.deb
+Size: 8118
+SHA256: ce74c924b24ef91b7dfce037e05b8e3cc7411f28aed337cff40116347def98e7
+SHA1: 69af688410d5a2c94120ed86e8bb3d6394bf5e26
+MD5sum: 789313f254804cf09a97de12a354b9f8
 Description: Sample application for test automation build deb and rpm packages
 Depends: libqt5widgets5
 

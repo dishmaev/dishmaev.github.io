@@ -1,7 +1,7 @@
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: unstable
 Codename: sid
-Date: Sun, 12 Nov 2017 10:22:13 UTC
+Date: Fri, 01 Dec 2017 11:12:08 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Development APT repository

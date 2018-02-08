@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: stable
 Codename: stable
-Date: Sun, 12 Nov 2017 10:22:13 UTC
+Date: Sat, 02 Dec 2017 16:29:51 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Release APT repository
@@ -67,12 +67,12 @@ SHA256:
  3babab326529bfdd6eece1114d411e02991cfcf8251e33a6153d4edf56f5b445 144 non-free/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloIINUACgkQ9PWme+RO
-7tQosAgA0qaB7uYzxPeRoVBosXhyiyRIcLKpolO5uCPuZxrdS2Kny096lcB9wWGj
-hyJNG3/9fhF40PL0tZxUrTbqBxa5vYZ06j4Q1qyesGszreEnw5OPgffH1lVJSKKq
-UXxU5G9J4PBRBX6UYQGzFbmSWMEfDkN5+TfYBIbPxhUISpbqU1PzyaitlfdveCEd
-mW4km/dFi8TpcnZEtedscXT4t1uPoloriiDGSJH2NnIJb9SZ3BuxlxMC1zHwRyEC
-g+Jme5CNKyNsE+qsZVTOqXNgZlOY+mluJsNfWEj1ndMhjhi44vPsLjMf5AtRPaA+
-hX0Bp/KqEfEveKWbhGuzoiB1kULZwQ==
-=ZuJ0
+iQEzBAEBCAAdFiEEUHZQ3jPHupLt0Vad9PWme+RO7tQFAloi1P8ACgkQ9PWme+RO
+7tS/DQf9EhMGTu0tHmSTOtSUKrK9MTly1SfHB7SEeHkl+ML+whEUjj/TpU6nYgYY
+ZChsxMIdWqXycCFOGaha2nTDtVDJCBRa+wSMQcQ/pFSdxgu3XGzra0CUfESRNh4o
+1YX3zNBxv9OTGKY3+STNDZfD2DkwmXAT0D+A0yL+X1NYzUoUCvhy/6vkeQ7kp1cf
+rnePFyHh/MS56gnMwhmJRGwPjDEY8DvPEADMq6y3YBgec+aeuEj0E1xlFhckpRF/
+4Dw6kWbexfZ8vNQOGiCmU5fkJJezKGU0g2QfGpzS9LMeJ87MfdCzhMUGAPjEh7uw
++WeTcSNLvNz+t9tVUukuJAvgsZCm9w==
+=AI29
 -----END PGP SIGNATURE-----

@@ -1,7 +1,7 @@
 Origin: https://dishmaev.github.io/repos/linux/apt
 Suite: stable
 Codename: stable
-Date: Sun, 12 Nov 2017 10:22:13 UTC
+Date: Sat, 02 Dec 2017 16:29:51 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Release APT repository
